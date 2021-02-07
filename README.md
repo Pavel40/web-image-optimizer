@@ -1,5 +1,4 @@
 # Web image optimizer
----
 Simple Python script for converting JPG or PNG images to WEBP and making them smaller with lossy compression.
 
 ## About
